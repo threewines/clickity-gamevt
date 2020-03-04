@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/6/6f/KennyMcCormick.png"
+   },
+  {
+    "id": 2,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/7/77/EricCartman.png"
+   },
+  {
+    "id": 3,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/2/25/KyleBroflovski.png"
+  },
+  {
+    "id": 4,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/a/a3/MrGarrison.png"
+  },
+  {
+    "id": 5,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/0/06/ButtersStotch.png"
+  },
+  {
+    "id": 6,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/1/1e/SouthParkChef.png"
+  },
+  {
+    "id": 7,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/a/a7/StanMarsh.png"
+  },
+  {
+    "id": 8,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/a/ab/Wendy_South_Park.png"
+  },
+  {
+    "id": 9,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/a/ab/Wendy_South_Park.png"
+  },
+  {
+    "id": 10,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/2/2b/Randy_and_Sharon_Marsh.png"
+  },
+  {
+    "id": 11,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/2/29/Gerald_and_Sheila_Broflovski.png"
+  },
+  {
+    "id": 12,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/a/aa/KennyUnhooded.jpg"
+  }
+]
